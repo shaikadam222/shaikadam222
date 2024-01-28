@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Adam</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<img src="[relative_path_to_image](https://res.cloudinary.com/practicaldev/image/fetch/s--StRkI7Ze--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://codesandtags.github.io/blog/static/0c42bdee6c2a7e213cacc2b33ac3039c/a0304/hero.webp)" alt="Alt text">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikadam222&label=Profile%20views&color=0e75b6&style=flat" alt="shaikadam222" /> </p>
 
