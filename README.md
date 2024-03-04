@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Adam</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikadam222&label=Profile%20views&color=0e75b6&style=flat-square" alt="shaikadam222" /> </p>
-<p align="left"> <img src="https://i.ibb.co/SKXymzv/IMG-20230331-083536.jpg" alt="shaikadam222" /> </p>
+<p align="center"> <img src="https://i.ibb.co/SKXymzv/IMG-20230331-083536.jpg" alt="shaikadam222" /> </p>
 
 - 🔭 I’m currently working on **COURSE SELLING COURSE**
 
