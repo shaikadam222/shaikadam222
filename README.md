@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaik Adam</h1>
+<h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
 <p align="center"> <img src="https://i.ibb.co/SKXymzv/IMG-20230331-083536.jpg" alt="shaikadam222" /> </p>
