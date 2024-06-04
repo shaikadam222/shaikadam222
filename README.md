@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<p align="center"> <img src="https://i.ibb.co/f0xsdyk/Whats-App-Image-2024-06-02-at-15-53-51-ab6c130c.jpgP" alt="shaikadam222" /> </p>
+<p align="center"> <img src="https://i.ibb.co/GJVG0Rb/Whats-App-Image-2024-06-02-at-15-53-51-ab6c130c.jpg" alt="shaikadam222" /> </p>
 
 - 🔭 I’m currently working on **SOCIAL MEDIA PLATFORM**
 
